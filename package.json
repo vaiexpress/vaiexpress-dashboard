@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaiexpress/ongza.git"
+    "url": "git+https://github.com/vaiexpress/vaiexpress-dashboard.git"
   },
   "bugs": {
-    "url": "https://github.com/vaiexpress/ongza/issues"
+    "url": "https://github.com/vaiexpress/vaiexpress-dashboard/issues"
   },
-  "homepage": "https://github.com/vaiexpress/ongza#readme"
+  "homepage": "https://github.com/vaiexpress/vaiexpress-dashboard#readme"
   
 }
